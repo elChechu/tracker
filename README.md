@@ -19,7 +19,7 @@ Requirements
 Installation
 ------------
  - cd /opt
- - sudo git clone git@github.com:elChechu/msc-tracker.git
+ - sudo git clone git@github.com:elChechu/tracker.git
  - nano credenciales.txt
  - cd tracker
  - sudo ./run.sh
