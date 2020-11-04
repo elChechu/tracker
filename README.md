@@ -1,6 +1,6 @@
 Funcionamiento
 --------------
-El script esta pensado para enviar cada dia a las 19:15 la asistencia a clase (en segundo plano sin mostrar nada molesto por pantalla), él mismo detecta si estás en el centro (La Salle) o no, y en función de esto envia un tipo de asistencia o otra.
+El script esta pensado para enviar cada dia a las 19:15 la asistencia a clase (en segundo plano sin mostrar nada molesto por pantalla), él mismo detecta si estás en el centro (La Salle) o no, y en función de esto envia un tipo de asistencia u otra.
 
 
 Plataforma
